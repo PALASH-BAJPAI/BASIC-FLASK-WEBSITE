@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #444;
+}
+
+header {
+    background-color: #DFB837;
+    height: 35px;
+    opacity: 0.9;
+    margin-bottom: 10px;
+}
+
+header h1.logo {
+    margin: 0;
+    font-size: 1.7em;
+    color: #fff;
+    text-transform: uppercase;
+    float: left;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+div.home {
+    padding: 10px 0 30px 0;
+    background-color: #e6e6fa;
+    border-radius: 6px;
+}
+
+nav .menu {
+    float: right;
+    margin-top: 8px;
+}
+
+.menu li {
+    display: inline;
+}
+
+.menu li a {
+    color: #444;
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+.home {
+    background-color: beige;
+}
+
+.about {
+    background-color: beige;
+}
